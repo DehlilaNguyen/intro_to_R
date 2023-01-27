@@ -1,0 +1,20 @@
+---
+title: "Introduction"
+author: Dehlila 
+output: github_document
+date: "2023-01-27"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# I am Dehlila 
+## Let me introduce myself - I am Dehlila 
+### I am Dehlila 
+#### I am awesome 
+
+
+``` {r Dehlilas-code1}
+summary(mtcars)
+``` 
